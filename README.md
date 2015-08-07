@@ -4,7 +4,7 @@ Been practicing my HTML/CSS skills lately and decided to take a stab at templati
 
 It's currently in alpha, the theme functions as the webt conterpart but it's not quite there yet.
 
-![Clean Blog](http://full/path/to/screenshot.jpg "Optional title")
+![Clean-Blog](screenshots/screenshot.jpg "Clean Blog Home Page")
 
 # To-Do List #
 
