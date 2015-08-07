@@ -8,10 +8,12 @@ It's currently in alpha, the theme functions similar to the web counterpart but 
 
 The template does support menus created in Habari. They will automatically fill out the navbar. Images attached in posts will need their class set to img-responsive for automatic resizing.
 
+My site is running a slightly modified version if you want to see it in action. [Check it Out](http://hullomoe.com)
+
 ## To-Do List ##
 
 * Allow for custom header images on posts and pages
 * Logo support
 * Subtitle support
 * Comments support
-* Image embeding 
+* Post mage embedding 

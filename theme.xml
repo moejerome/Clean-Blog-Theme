@@ -8,8 +8,8 @@
 	<url>http://hullomoe.com</url>
 	<description><![CDATA[I ported the Clean Blog theme from Start Bootstrap. Still working out the kinks. Ported over by Moses Roberts.]]></description>
 	<template_engine>rawphpengine</template_engine>
-	<copyright>2011</copyright>
-	<guid>f7c83f6c-9f7e-4a66-8ffc-eb7907ed628f</guid>
+	<copyright>2015</copyright>
+	<guid></guid>
 	<areas>
 		<area name="sidebar">
 			<description><![CDATA[Sidebar]]></description>
